@@ -1,12 +1,17 @@
 {
   "short_name": "Portfolio",
-  "name": "Portfolio very cool",
+  "name": "Portfolio",
   "icons": [
     {
-      "src": "../src/assets/images/logoBlack.svg",
+      "src": "../src/assets/images/av.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/svg+xml"
+      "type": "image/png"
     },
+    {
+      "src": "../src/assets/images/logoBlack.svg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
   ],
   "start_url": ".",
   "display": "standalone",
